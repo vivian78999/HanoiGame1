@@ -14,7 +14,7 @@ namespace ConsoleApp4
             game.Setup();  
             game.Play();
               
-            Console.ReadKey();
+            Console.ReadKey(); 
 
         }
     }
